@@ -29,9 +29,7 @@
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ThiagoLoureDeveloper/ThiagoLoureDeveloper/output/snake.svg" alt="Snake animation" />
 
 
 💻 Desenvolvedor com 2 anos de experiência, apaixonado pelo mundo da programação.
