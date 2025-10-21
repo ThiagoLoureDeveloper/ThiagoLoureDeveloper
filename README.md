@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoLoureDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="300" alt="Thiago Loure GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoLoureDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" width="450" height="300" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoLoureDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" width="445" height="300" alt="Linguagens mais usadas" />
 </div>
 
 
@@ -28,6 +28,11 @@
   <img align="center" alt="Springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ThiagoLoureDeveloper/ThiagoLoureDeveloper/output/snake.svg" alt="Snake animation" />
+
 
 💻 Desenvolvedor com 2 anos de experiência, apaixonado pelo mundo da programação.
 
