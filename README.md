@@ -6,14 +6,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louredevpro@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581973360022?text=Olá%2C%20preciso%20de%20informações!)
 
-<div align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ThiagoLoureDeveloper&show_icons=true&theme=radical" />
-  <img width="417" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLoureDeveloper&layout=compact&theme=radical" />
-</div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoLoureDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Thiago Loure GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoLoureDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoLoureDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="300" alt="Thiago Loure GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoLoureDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="300" alt="Linguagens mais usadas" />
 </div>
+
 
 
 
