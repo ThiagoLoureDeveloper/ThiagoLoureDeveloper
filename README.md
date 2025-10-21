@@ -7,6 +7,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581973360022?text=Olá%2C%20preciso%20de%20informações!)
 
 ![Thiago Loure GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoLoureDeveloper&show_icons=true&theme=github_dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLoureDeveloper&layout=pie&theme=github_dark)
 
 
 
